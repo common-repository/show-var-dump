@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Show var_dump\n"
+"POT-Creation-Date: 2014-10-07 13:55+0900\n"
+"PO-Revision-Date: 2014-10-07 13:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: D:\\vm\\www\\wp2\\wp-content\\plugins\\\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: show-var-dump\n"
+
+#: show-var-dump/show-var-dump.php:44
+msgid "no dump yet."
+msgstr "デバッグログはありません。"
+
+#: show-var-dump/show-var-dump.php:45
+msgid "Reset Dump Log"
+msgstr "ログのリセット"
+
+#: show-var-dump/show-var-dump.php:68
+msgid "Reset Your Dump log."
+msgstr "ログが初期化されました。"
